@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Guess-bot</string>
+    <string name="btnYes">Так</string>
+    <string name="textQuestion">Загадуй персонаж</string>
+    <string name="guess_bot">Guess-bot</string>
+    <string name="first_General">Твій персонаж має відношення до спорту?</string>
+    <string name="btn_No">Ні</string>
+    <string name="secondGeneralQ">Твій персонаж програмує?</string>
+    <string name="thirdGenQ">Твій персонаж має дівчину?</string>
+    <string name="fourthGenQues">Твій персонаж любить серіали?</string>
+    <string name="fifthGenQ">Твій персонаж Курить?</string>
+    <string name="here_should_be_ur_question">here should be ur question</string>
+    <string name="here_should_be_answer">Here should be answer</string>
+    <string name="start_again">Почати знову</string>
+    <string name="start">Старт</string>
+    <string name="ukraine">ukraine</string>
+</resources>
